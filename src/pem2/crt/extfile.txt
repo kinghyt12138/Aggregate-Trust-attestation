@@ -1,0 +1,2 @@
+subjectAltName=DNS:localhost,DNS:*.localhost
+basicConstraints=critical,CA:TRUE
